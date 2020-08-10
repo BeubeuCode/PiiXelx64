@@ -16,3 +16,5 @@
 * Vue
 * Android Dev (more in depth than what I did in class)
 * PWAs
+* AMP for extra fast website
+* Game Programming with SDL
