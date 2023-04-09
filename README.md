@@ -7,14 +7,7 @@
 ### 💻 - Développeur Web/Web Developpeur
 ### 🌐 FR/EN/JP
 ### 🗺 - Paris - France
-### 📚 - JavaScript, PHP, Python, HTML5, CSS3, C#, Go
-#### ⚙ - Symfony, Laravel, React, Flask, Unity
+### 📚 - Typescript, React Native, Vue.JS
+#### ⚙ - Rails, Serverless
 #### 👨‍💻 - [@skelloapp](https://www.skello.io/)
 #### 📚 - DUT MMI à [L'IUT De Marne La Vallée](http://iut.u-pem.fr/) / Multimedia and Internet Jobs 2 year degree at [Marne La Vallée's Institute of Technology](http://iut.u-pem.fr/)
-## Planning to learn
-* Express
-* Vue
-* Android Dev (more in depth than what I did in class)
-* PWAs
-* AMP for extra fast website
-* Game Programming with SDL
